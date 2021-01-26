@@ -1,0 +1,10 @@
+openapi: 3.0.2
+info:
+  title: Issue 4119
+  version: 1.0.0
+  description: Reproduction for OpenAPI-Generator issue \#4119.
+paths: {}
+components:
+  schemas:
+    MyModel:
+      type: object
